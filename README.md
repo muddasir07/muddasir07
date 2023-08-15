@@ -1,20 +1,20 @@
 ![logo](https://github.com/muddasir07/muddasir07/blob/main/full%20stack.gif)
 <h1 align="center">Hi 👋, I'm Muddasir Shabbir</h1>
-<h3 align="center">I'm a Web & App developer and firmly gripped in HTML5, CSS, JavaScript, Typescript, React, React-native, MongoDb, Flutter, and Nodejs💻 </h3>
+<h3 align="center">I'm a Web & App developer and firmly gripped in JavaScript, Typescript, NEXT.js MongoDb, Flutter, and Nodejs💻 </h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddasir07&label=Profile%20views&color=0e75b6&style=flat" alt="muddasir07" /> </p>
 
-- 🔭 I’m currently working on **Multiple Niches Websites**
+- 🔭 I’m currently working on **Multiple Niches Websites and Android Applications**
 
-- 🌱 I’m currently learning **ReactNative, Nextjs**
+- 🌱 I’m currently learning **Angular & Native**
 
-- 👯 I’m looking to collaborate on **multi-web projects, Management projects, etc.**
+- 👯 I’m looking to collaborate on **Multi-Web projects, Management projects, Android Applications etc.**
 
 - 📝 I regularly write articles on [https://medium.com/@muddasirshabbir13023](https://medium.com/@muddasirshabbir13023)
 
-- 💬 Ask me about **JavaScript, react, HTML5, CSS, Nodejs, MongoDB and Express.**
+- 💬 Ask me about **JavaScript, react, HTML5, CSS, Nodejs, MongoDB, NEXT.js and Flutter.**
 
 - 📫 How to reach me **muddasirshabbir59@gmail.com**
 
